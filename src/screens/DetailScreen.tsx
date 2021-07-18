@@ -77,7 +77,6 @@ const DetailScreen: React.FC<ScreenProps<'Detail'>> = ({ navigation, route }): R
 }
 
 
-
 const styles = StyleSheet.create<StyleProps>({
     imgView: {
         resizeMode: 'cover',
